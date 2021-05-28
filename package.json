@@ -19,22 +19,6 @@
   "license": "MIT",
   "config": {
     "forge": {
-      "publishers": [
-        {
-          "name": "@electron-forge/publisher-bitbucket",
-          "config": {
-            "repository": {
-              "owner": "Himorrivel",
-              "name": "correiosapp_desktop"
-            },
-            "draft": true,
-            "auth": {
-              "username": "Himorrivel",
-              "appPassword": "Artorius2@"
-            }
-          }
-        }
-      ],
       "packagerConfig": {},
       "makers": [
         {
