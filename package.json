@@ -24,10 +24,10 @@
           "name": "@electron-forge/publisher-github",
           "config": {
             "repository": {
-              "owner": "HimorriveL",
+              "owner": "Himorrivel",
               "name": "correiosapp_desktop"
             },
-            "draft": true
+            "prerelease": true
           }
         }
       ],
